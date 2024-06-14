@@ -1,51 +1,58 @@
-<h1>Hi, I'm Jeffrey! Cybersecurity student pursing the field!</h1>
+# Hi, I'm Jeffrey! Cybersecurity student pursuing the field!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## 👨‍💻 Cybersecurity Projects:
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- **Keylogger**
+  - [Keylogger Project](https://github.com/jeffreyamunoz/Keylogger)
+- **Network Scanning with Nessus**
+  - [Scanning a Network with Nessus](https://github.com/jeffreyamunoz/Scanning-A-Network-with-Nessus)
 
-<h2>Education</h2>
+## Education
 
-<h2>Certifications</h2>
+- **Iowa State University**
+  - Psychology, 2015 - 2016, Grade: Junior
 
+- **Des Moines Area Community College**
+  - Associate's degree, Liberal Arts, 2013 - 2016
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+## Certifications
 
-<h2> LinkedIn:</h2>
+- **CompTIA Security+** - CompTIA, 2024
+- **Google Cybersecurity** - Google, 2024
+- **ISC2 Candidate** - ISC2, 2024
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## Experience
+
+- **Epic Cadence Analyst**
+  - Baylor Scott & White Health, June 2019 - June 2022
+  - Supported provider template builds and revisions
+  - Focused on clinical user front-end troubleshooting
+  - Familiar with workflow triaging
+
+- **Provider Enrollment Analyst**
+  - Baylor Scott & White Health, July 2018 - June 2019
+  - Enrolled providers into healthcare systems
+  - Focused on government payer enrollments
+  - Ensured accurate filing and swift enrollment to meet company expectations
+
+- **Patient Service Specialist**
+  - Baylor Scott & White Health, May 2016 - July 2018
+  - Experienced clinical reception end user
+  - Improved daily operations and multi-tasked effectively
+  - Gained familiarity with common Epic-based issues
+  - Awarded patient care award
+
+- **Customer Service**
+  - Hy-Vee, Inc, May 2009 - June 2016
+  - Worked as a Courtesy Clerk, Cashier, and customer service
+  - Developed a strong customer service work ethic over 7 years
+
+## Summary
+
+Detail-oriented professional transitioning to a cybersecurity analyst role with a strong background in data accuracy, problem-solving, and process improvement in healthcare settings. Proven ability to analyze and secure data, manage technical issues, and implement efficient solutions. Certified in CompTIA Security+, Google Cybersecurity, and ISC2 Candidate, with extensive experience in remote work and stakeholder coordination.
+
+## LinkedIn
+
+[<img align="left" alt="Jeffrey Munoz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/jeffreyamunoz/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
